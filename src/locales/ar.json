@@ -1,0 +1,10 @@
+{
+    "signup": "إنشاء حساب",
+    "username": "اسم المستخدم",
+    "email": "البريد الإلكتروني",
+    "password": "كلمة المرور",
+    "passwordConfirmation": "تأكيد كلمة المرور",
+    "success please check you activation message":
+    "تم التسجيل بنجاح من فضلك تأكد من رسالة التفعيل",
+    "passwordMisMatch": "كلمة المرور غير متطابقة"
+}

@@ -1,0 +1,10 @@
+{
+    "signup": "Sign Up",
+    "username": "Username",
+    "email": "E-mail",
+    "password": "Password",
+    "passwordConfirmation": "Password Confirmation",
+    "success please check you activation message":
+    "Success Please Check You Activation Message",
+    "passwordMisMatch": "Password and password confirmation mismatch"
+}

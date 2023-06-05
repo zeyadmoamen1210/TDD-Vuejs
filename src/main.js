@@ -1,4 +1,10 @@
-import { createApp } from 'vue'
-import App from './App.vue'
+import { createApp } from "vue";
+import App from "./App.vue";
+import i18n from "@/locales";
+import router from "@/routes";
 
-createApp(App).mount('#app')
+const myApp = createApp(App);
+myApp.use(i18n);
+myApp.use(router);
+
+myApp.mount("#app");
